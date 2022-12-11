@@ -26,7 +26,7 @@
 
 ## License
 
-Released under the [MIT License](http://www.apache.org/licenses/LICENSE-2.0) license.
+Released under the [MIT License](https://choosealicense.com/licenses/mit) license.
 
 ## Donate
 
