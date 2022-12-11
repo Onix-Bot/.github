@@ -13,6 +13,7 @@
 - Nestjs: [A progressive Node.js framework for building efficient, reliable and scalable server-side applications.](https://github.com/Onix-Bot/Nestjs)
 - Database: [Database is especially for the Pogy bot and i'am fork project to use it and that supports some special things. To know more, click on me](https://github.com/Onix-Bot/Database)
 - Sentry: [Developer-first error tracking and performance monitoring](https://github.com/Onix-Bot/Sentry)
+- Redis: [Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.](https://github.com/Onix-Bot/Redis)
 - Locale: [If you want to support the bot in your language, click on it](https://github.com/Onix-Bot/Locale)
 - Library: [library to Discord API](https://github.com/Onix-Bot/Library)
 
