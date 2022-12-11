@@ -4,7 +4,7 @@
  <br>
 </h1>
 
-<h3 align=center>Onix of one of the best multipurpose Discord Bot to improve your server! is a fully functional discord Bot with many commands. Moderation, public, big setup and more and Here you will find some projects that use Onyx and some special projects</h3>
+<h3 align=center>Onix of one of the best multipurpose Discord Bot to improve your server! is a fully functional discord Bot with many commands. Moderation, public, big setup and more and Here you will find some projects that use Onix and some special projects</h3>
 
 
 
