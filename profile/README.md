@@ -7,7 +7,6 @@
 <h3 align=center>Onix of one of the best multipurpose Discord Bot to improve your server! is a fully functional discord Bot with many commands. Moderation, public, big setup and more and Here you will find some projects that use Onix and some special projects</h3>
 
 
-
 ## Public projects that you can contribute to the development of:
 
 - Nestjs: [A progressive Node.js framework for building efficient, reliable and scalable server-side applications.](https://github.com/Onix-Bot/Nestjs)
@@ -18,16 +17,21 @@
 - Library: [library to Discord API](https://github.com/Onix-Bot/Library)
 
 
-
 ## Private projects that must be submitted to the private e-mail in order for your submission to be checked, and among these projects:
 
 - Bot: It is the source code for bot **Onix** which contains most of the libraries and projects mentioned in this message.
 - Support: It is the source code for **Onix Support**  for Onix Support Srever.
 
-## License
+## Some of the people who helped us develop the bot are still there and some are retired:
+
+- [Stroos](https://github.com/Strooss)
+- [Alpha](https://github.com/IxAlpha)
+- [AhmadShkour](https://github.com/AhmadShkour71)
+
+## License:
 
 Released under the [MIT License](https://choosealicense.com/licenses/mit) license.
 
-## Donate
+## Donate:
 
 You can donate Onix and make it stronger than ever [by clicking here](https://paypal.me/shkour)!
