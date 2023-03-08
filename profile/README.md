@@ -19,7 +19,6 @@
 
 **Developers:**
 - [github.com/Strooss](https://github.com/Strooss) 
-- [github.com/IxAlpha](https://github.com/IxAlpha) 
 - [github.com/AhmadShkour71](https://github.com/AhmadShkour71) 
 
 ## License:
