@@ -18,8 +18,8 @@
 - We use [JavaScript](https://www.javascript.com/) as our main Language.
 
 **Developers:**
+- [github.com/AhmadShkour71](https://github.com/AhmadShkour71)
 - [github.com/Strooss](https://github.com/Strooss) 
-- [github.com/AhmadShkour71](https://github.com/AhmadShkour71) 
 
 ## License:
 
