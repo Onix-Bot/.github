@@ -12,7 +12,7 @@
 
 **Common:** 
 - We use [Mongoose](https://mongoosejs.com/) The main source of data storage for the bot.
-- We use [AdminJS](https://github.com/Onix-Bot/Database) for database control and organization with devs.
+- We use [AdminJS](https://adminjs.co/) for database control and organization with devs.
 - We use [Redis](https://redis.io) for caching.
 - We use [Sentry](https://sentry.io/) for organize the bot errors and fix them.
 - We use [JavaScript](https://www.javascript.com/) as our main Language.
