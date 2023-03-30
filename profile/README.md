@@ -15,6 +15,7 @@
 - We use [AdminJS](https://adminjs.co/) for database control and organization with devs.
 - We use [Redis](https://redis.io) for caching.
 - We use [Sentry](https://sentry.io/) for organize the bot errors and fix them.
+- We use [Docker](https://www.docker.com/) for running containerized applications.
 - We use [JavaScript](https://www.javascript.com/) as our main Language.
 
 **Developers:**
