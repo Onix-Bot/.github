@@ -11,12 +11,11 @@
 - **Bot:** bot created with [discord.js](https://github.com/discordjs/discord.js).
 
 **Common:** 
-- We use [Mongoose](https://mongoosejs.com/) The main source of data storage for the bot.
-- We use [AdminJS](https://adminjs.co/) for database control and organization with devs.
+- We use [Prisma](https://prisma.io) with [MongoDB](https://www.mongodb.com/) for relational data.
 - We use [Redis](https://redis.io) for caching.
 - We use [Sentry](https://sentry.io/) for organize the bot errors and fix them.
 - We use [Docker](https://www.docker.com/) for running containerized applications.
-- We use [JavaScript](https://www.javascript.com/) as our main Language.
+- We use [Typescript](https://www.typescriptlang.org/) as our main Language.
 
 **Developers:**
 - [github.com/AhmadShkour71](https://github.com/AhmadShkour71)
